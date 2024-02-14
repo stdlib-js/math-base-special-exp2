@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import exp2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-exp2@deno/mod.js';
+import exp2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-exp2@v0.2.0-deno/mod.js';
 ```
 
 #### exp2( x )
@@ -75,7 +75,7 @@ v = exp2( NaN );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import exp2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-exp2@deno/mod.js';
+import exp2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-exp2@v0.2.0-deno/mod.js';
 
 var x;
 var i;
