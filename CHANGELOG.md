@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-01)
+## Unreleased (2024-11-24)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`184d71f`](https://github.com/stdlib-js/stdlib/commit/184d71f0d04083ef6e64b641eccfc322273f544c) - **chore:** update to modern benchmark Makefile _(by Philipp Burckhardt)_
 -   [`c6fe24f`](https://github.com/stdlib-js/stdlib/commit/c6fe24f012b118f30347d075ce52169c8423fbf5) - **bench:** refactor benchmarks _(by Athan Reines)_
 -   [`2b30eb7`](https://github.com/stdlib-js/stdlib/commit/2b30eb7d91ebcad9919546040198fad15c54b2b8) - **bench:** refactor C benchmarks _(by Athan Reines)_
 -   [`870f645`](https://github.com/stdlib-js/stdlib/commit/870f64561a7d90579bd92920c8733a205ed0a55c) - **build:** add WebAssembly configuration _(by Athan Reines)_
@@ -26,9 +27,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
